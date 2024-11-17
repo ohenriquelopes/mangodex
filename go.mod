@@ -1,3 +1,3 @@
-module github.com/darylhjd/mangodex
+module github.com/ohenriquelopes/mangodex
 
 go 1.16
