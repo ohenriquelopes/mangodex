@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	MangaChaptersPath    = "manga/%s/feed"
+	MangaChaptersPath    = "manga/%s/feed?translatedLanguage[]=pt-br"
 	MangaReadMarkersPath = "manga/%s/read"
 )
 
